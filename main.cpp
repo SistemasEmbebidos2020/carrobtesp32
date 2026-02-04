@@ -1,4 +1,3 @@
-```cpp
 #include <Arduino.h>
 #include "BluetoothSerial.h"
 
@@ -124,5 +123,3 @@ void loop() {
     }
   }
 }
-```
-Note that I've added comments to explain the purpose of each function and section, but kept the code itself concise and focused on its functionality.
