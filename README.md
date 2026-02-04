@@ -54,4 +54,4 @@ The carrobtesp32 repository is organized as follows:
 **Author**
 ---------
 
-This project was created by [Your Name](https://SistemasEmbebidos.github.io/), a senior technical writer with expertise in creating high-quality documentation and developing engaging content.
+This project was created by [SistemasEmbebidos]([https://SistemasEmbebidos.github.io](https://github.com/SistemasEmbebidos2020/)/), a senior technical writer with expertise in creating high-quality documentation and developing engaging content.
