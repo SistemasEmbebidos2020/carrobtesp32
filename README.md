@@ -1,8 +1,6 @@
 **Carrobtesp32**
 ================
 
-A Python library for interacting with the Carrobtesp32 microcontroller, providing a simple and efficient way to control and monitor devices.
-
 **Project Description**
 ------------------------
 
